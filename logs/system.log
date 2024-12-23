@@ -1,0 +1,2 @@
+{"asctime": "2024-12-23 14:46:32,836", "levelname": "CRITICAL", "message": "Memory allocation failed", "service": "database", "id": "a9ef419e-2f16-4f10-b94f-30e9d5cc44f8", "taskName": null}
+{"asctime": "2024-12-23 14:46:35,116", "levelname": "CRITICAL", "message": "Unexpected service shutdown", "service": "network", "id": "943be09f-4c60-4277-afc6-65e2fe7130f6", "taskName": null}

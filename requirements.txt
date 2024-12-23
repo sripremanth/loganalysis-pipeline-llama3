@@ -1,0 +1,3 @@
+watchdog==3.0.0    # For monitoring file changes
+requests==2.31.0   # For Ollama API calls
+python-json-logger==2.0.7  # For structured logging
